@@ -1,0 +1,4 @@
+extract_one_ft.py 提取特征，进行剪短实验
+find_most_character_img.py 找到每类图片中最具代表性图片
+compute_acc.py 计算视频准确率召回率
+faiss_test_prf.py 生成top300明星以及测试视频的特征，并存储在prf中

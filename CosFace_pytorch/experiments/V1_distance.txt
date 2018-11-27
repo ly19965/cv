@@ -1,0 +1,900 @@
+42415
+max_distance	Baidu_012.png	0.999999940395
+mean_distance	Baidu_006.png	0.322824031115
+92845
+max_distance	Google_333.png	0.999999940395
+mean_distance	Google_123.png	0.377020134999
+73113
+max_distance	spider_20141123234226665.png	0.999999940395
+mean_distance	Baidu_003.png	0.341588516564
+214381
+max_distance	Google_019.png	0.999999940395
+mean_distance	Google_000.png	0.42463413592
+181233
+max_distance	Google_099.png	0.999999940395
+mean_distance	Baidu_003.png	0.321130641224
+49142
+max_distance	Baidu_040.png	0.999999940395
+mean_distance	Baidu_000.png	0.46257335227
+85426
+max_distance	Google_003.png	0.999999940395
+mean_distance	Google_005.png	0.37961466252
+5168648
+max_distance	Google_098.png	0.999999940395
+mean_distance	Google_228.png	0.337308977154
+142774
+max_distance	Google_019.png	0.999999940395
+mean_distance	Google_009.png	0.312245214897
+244699
+max_distance	spider_20160517165701777.png	0.999999940395
+mean_distance	spider_20170817231514889.png	0.422565405947
+3925780
+max_distance	Google_166.png	0.999999940395
+mean_distance	Google_027.png	0.336989169487
+144478
+max_distance	Google_347.png	0.999999940395
+mean_distance	Google_331.png	0.384066719478
+305793
+max_distance	Google_033.png	0.999999940395
+mean_distance	Google_114.png	0.435400746763
+219247
+max_distance	Google_004.png	0.999999940395
+mean_distance	Google_234.png	0.304988735129
+55737865
+max_distance	Google_248.png	0.999999940395
+mean_distance	Baidu_002.png	0.369591877968
+83455
+max_distance	Baidu_010.png	0.999999940395
+mean_distance	Baidu_014.png	0.323206097586
+97419
+max_distance	Google_092.png	0.999999940395
+mean_distance	Google_017.png	0.308933113821
+35532
+max_distance	spider_20141201014952087.png	0.999999940395
+mean_distance	Google_017.png	0.355315338437
+237472
+max_distance	Google_325.png	0.999999940395
+mean_distance	Google_000.png	0.466002367958
+86621
+max_distance	Baidu_010.png	0.999999940395
+mean_distance	Baidu_023.png	0.316937722266
+219244
+max_distance	Google_051.png	0.999999940395
+mean_distance	Google_172.png	0.412533759417
+100816
+max_distance	Google_018.png	0.999999940395
+mean_distance	Google_008.png	0.405461808201
+71266
+max_distance	Google_109.png	0.999999940395
+mean_distance	Google_085.png	0.343830161951
+29450
+max_distance	Google_003.png	0.999999940395
+mean_distance	Google_096.png	0.363663114367
+55742290
+max_distance	Google_435.png	0.999999940395
+mean_distance	Google_049.png	0.326603323221
+66470
+max_distance	Google_056.png	0.999999940395
+mean_distance	Google_122.png	0.441400871329
+49020
+max_distance	Baidu_006.png	0.999999940395
+mean_distance	spider_20140715142108948.png	0.524423908082
+48859
+max_distance	Baidu_020.png	0.999999940395
+mean_distance	Baidu_005.png	0.365657916758
+48936
+max_distance	spider_20151109134635071.png	0.999999940395
+mean_distance	spider_20151108134605839.png	0.292757758558
+81184
+max_distance	Google_074.png	0.999999940395
+mean_distance	Google_015.png	0.325504483223
+101005
+max_distance	Google_018.png	0.999999940395
+mean_distance	Google_056.png	0.371498918962
+129691
+max_distance	Google_028.png	0.999999940395
+mean_distance	Google_067.png	0.408323379403
+99537
+max_distance	Google_030.png	0.999999940395
+mean_distance	Google_026.png	0.3214911497
+59586
+max_distance	Google_032.png	0.999999940395
+mean_distance	Google_159.png	0.319371276481
+94640
+max_distance	Baidu_012.png	0.999999940395
+mean_distance	Baidu_010.png	0.440755849083
+36204
+max_distance	Google_018.png	0.999999940395
+mean_distance	Google_052.png	0.335682743468
+29651
+max_distance	Google_035.png	0.999999940395
+mean_distance	Google_324.png	0.34071266215
+55746228
+max_distance	Google_032.png	0.999999940395
+mean_distance	Google_018.png	0.365215692446
+296218
+max_distance	Google_109.png	0.999999940395
+mean_distance	Google_004.png	0.334529342679
+1354965
+max_distance	Google_027.png	0.999999940395
+mean_distance	Baidu_019.png	0.343661866073
+96031
+max_distance	Baidu_038.png	0.999999940395
+mean_distance	spider_20141029174650878.png	0.344656492152
+74540
+max_distance	Baidu_034.png	0.999999940395
+mean_distance	spider_20160613000434519.png	0.412533223958
+276118
+max_distance	Google_003.png	0.999999940395
+mean_distance	Google_107.png	0.222760901842
+36305
+max_distance	Google_162.png	0.999999940395
+mean_distance	Google_179.png	0.325491760892
+94295
+max_distance	Google_114.png	0.999999940395
+mean_distance	Google_039.png	0.363866669118
+64824
+max_distance	Baidu_047.png	0.999999940395
+mean_distance	Baidu_019.png	0.365256357938
+90158
+max_distance	Google_139.png	0.999999940395
+mean_distance	Google_245.png	0.337474503022
+6108542
+max_distance	Google_215.png	0.999999940395
+mean_distance	Google_316.png	0.368449065845
+49447
+max_distance	Google_197.png	0.999999940395
+mean_distance	Google_093.png	0.365317220914
+460321
+max_distance	Google_175.png	0.999999940395
+mean_distance	Google_072.png	0.354774821951
+83434
+max_distance	Google_122.png	0.999999940395
+mean_distance	Google_189.png	0.337594039361
+60454
+max_distance	Google_399.png	0.999999940395
+mean_distance	Google_024.png	0.312275439362
+97461
+max_distance	Google_114.png	0.999999940395
+mean_distance	Google_083.png	0.349876319325
+297281
+max_distance	Google_032.png	0.999999940395
+mean_distance	Google_246.png	0.389356606843
+101038
+max_distance	Baidu_022.png	0.999999940395
+mean_distance	spider_20150917012630461.png	0.48815567484
+96730
+max_distance	Google_208.png	0.999999940395
+mean_distance	Google_022.png	0.36925275754
+85927
+max_distance	spider_20160528181715417.png	0.999999940395
+mean_distance	spider_20150922183330358.png	0.361142858827
+70725
+max_distance	Google_056.png	0.999999940395
+mean_distance	Google_250.png	0.389742684364
+81827
+max_distance	spider_20151106132309741.png	0.999999940395
+mean_distance	Baidu_025.png	0.409479313883
+85966
+max_distance	Google_033.png	0.999999940395
+mean_distance	Google_027.png	0.344189624025
+237488
+max_distance	spider_20160908013642834.png	0.999999940395
+mean_distance	spider_20160908013642127.png	0.33574596386
+60231
+max_distance	Google_032.png	0.999999940395
+mean_distance	Google_108.png	0.319146940879
+35222
+max_distance	Baidu_014.png	0.999999940395
+mean_distance	Baidu_095.png	0.321145123587
+75556
+max_distance	Google_110.png	0.999999940395
+mean_distance	Google_022.png	0.370158044899
+94151
+max_distance	spider_20170520073725880.png	0.999999940395
+mean_distance	spider_20160511095951431.png	0.288278016157
+25612
+max_distance	Google_019.png	0.999999940395
+mean_distance	Google_009.png	0.320576152965
+289917
+max_distance	spider_20170212105650520.png	0.999999940395
+mean_distance	spider_20170212105700886.png	0.325630987003
+92701
+max_distance	Google_055.png	0.999999940395
+mean_distance	Google_148.png	0.367489910232
+55738265
+max_distance	Baidu_045.png	0.999999940395
+mean_distance	Google_436.png	0.345082327111
+257538
+max_distance	Google_234.png	0.999999940395
+mean_distance	Google_347.png	0.336700495743
+81531
+max_distance	Google_114.png	0.999999940395
+mean_distance	Google_036.png	0.428205224177
+59384
+max_distance	Baidu_002.png	0.999999940395
+mean_distance	spider_20141119222241253.png	0.328701883554
+71052
+max_distance	Google_033.png	0.999999940395
+mean_distance	Google_071.png	0.384673004569
+85903
+max_distance	Google_033.png	0.999999940395
+mean_distance	Google_105.png	0.370463051308
+60546
+max_distance	spider_20161001053628617.png	0.999999940395
+mean_distance	Baidu_047.png	0.338237328669
+63916
+max_distance	Baidu_047.png	0.999999940395
+mean_distance	spider_20150910182747380.png	0.413674963585
+68252
+max_distance	Google_053.png	0.999999940395
+mean_distance	Google_300.png	0.334973142898
+26064
+max_distance	spider_20151114133612950.png	0.999999940395
+mean_distance	spider_20140620132823250.png	0.440197794483
+80285
+max_distance	Baidu_046.png	0.999999940395
+mean_distance	spider_20160117161645560.png	0.397386071802
+94676
+max_distance	Baidu_012.png	0.999999940395
+mean_distance	spider_20160122185624044.png	0.354519046843
+100811
+max_distance	spider_20140930233440512.png	0.999999940395
+mean_distance	Baidu_034.png	0.326326353513
+49260
+max_distance	Baidu_012.png	0.999999940395
+mean_distance	Baidu_003.png	0.389465194278
+75076
+max_distance	Baidu_009.png	0.999999940395
+mean_distance	Baidu_090.png	0.407022328341
+421222
+max_distance	spider_20160226170616463.png	0.999999940395
+mean_distance	spider_20170227190208827.png	0.426527915461
+92824
+max_distance	spider_20141120225102959.png	0.999999940395
+mean_distance	Baidu_016.png	0.405921347368
+142618
+max_distance	Google_114.png	0.999999940395
+mean_distance	Google_144.png	0.37509586435
+11870163
+max_distance	Google_025.png	0.999999940395
+mean_distance	Google_408.png	0.295342846037
+477115
+max_distance	spider_20160316204655481.png	0.999999940395
+mean_distance	spider_20160316204643149.png	0.327640097818
+59335
+max_distance	Baidu_046.png	0.999999940395
+mean_distance	spider_20141127002607285.png	0.384738468404
+129098
+max_distance	Google_175.png	0.999999940395
+mean_distance	Google_100.png	0.300234144384
+59140
+max_distance	spider_20160801181900050.png	0.999999940395
+mean_distance	spider_20160801202529315.png	0.302395942752
+94755
+max_distance	spider_20141130012015389.png	0.999999940395
+mean_distance	spider_20160715113647555.png	0.328857115804
+42261
+max_distance	Baidu_024.png	0.999999940395
+mean_distance	Baidu_023.png	0.340025175418
+113023
+max_distance	spider_20141121231154007.png	0.999999940395
+mean_distance	spider_20141121232016855.png	0.305331879428
+769047
+max_distance	Google_098.png	0.999999940395
+mean_distance	Google_191.png	0.271635680062
+60597
+max_distance	spider_20161119131453414.png	0.999999940395
+mean_distance	Baidu_026.png	0.405297264648
+250901
+max_distance	spider_20161213181635349.png	0.999999940395
+mean_distance	spider_20170817094317798.png	0.461156319295
+120575
+max_distance	Google_204.png	0.999999940395
+mean_distance	Google_168.png	0.324695603055
+98077
+max_distance	spider_20140817163047071.png	0.999999940395
+mean_distance	spider_20141202020020177.png	0.279740419347
+280361
+max_distance	Google_023.png	0.999999940395
+mean_distance	Google_065.png	0.377612072043
+89936
+max_distance	Google_004.png	0.999999940395
+mean_distance	Google_123.png	0.330942880946
+61503
+max_distance	Google_188.png	0.999999940395
+mean_distance	Baidu_027.png	0.414584961882
+247258
+max_distance	Google_015.png	0.999999940395
+mean_distance	Google_138.png	0.427803176266
+59870
+max_distance	Google_045.png	0.999999940395
+mean_distance	Google_264.png	0.384938772833
+90091
+max_distance	Baidu_014.png	0.999999940395
+mean_distance	Baidu_015.png	0.454364214489
+55749984
+max_distance	Google_001.png	0.999999940395
+mean_distance	Google_024.png	0.378436575333
+94495
+max_distance	spider_20160119153630034.png	0.999999940395
+mean_distance	Baidu_007.png	0.362754701514
+55777329
+max_distance	Google_161.png	0.999999940395
+mean_distance	Google_070.png	0.387273278766
+43455
+max_distance	Baidu_024.png	0.999999940395
+mean_distance	Google_007.png	0.377199347218
+94340
+max_distance	Google_427.png	0.999999940395
+mean_distance	Google_002.png	0.33737296708
+70690
+max_distance	spider_20160926145710282.png	0.999999940395
+mean_distance	spider_20160526073640479.png	0.367668672195
+48962
+max_distance	Baidu_012.png	0.999999940395
+mean_distance	Baidu_024.png	0.389840565298
+252824
+max_distance	Google_015.png	0.999999940395
+mean_distance	Google_022.png	0.411977373524
+255884
+max_distance	spider_20160413185641988.png	0.999999940395
+mean_distance	spider_20160413185636211.png	0.489720218573
+88127
+max_distance	spider_20141023164653205.png	0.999999940395
+mean_distance	spider_20150908053746417.png	0.420733594006
+55762147
+max_distance	spider_20140814142056839.png	0.999999940395
+mean_distance	spider_20160413205636472.png	0.443456370117
+100848
+max_distance	Baidu_047.png	0.999999940395
+mean_distance	Baidu_036.png	0.430791224425
+64766
+max_distance	Google_032.png	0.999999940395
+mean_distance	Google_062.png	0.420281616264
+14922451
+max_distance	Google_217.png	0.999999940395
+mean_distance	Google_064.png	0.515667307377
+617886
+max_distance	Google_003.png	0.999999940395
+mean_distance	Google_101.png	0.319653093739
+129918
+max_distance	Google_043.png	0.999999940395
+mean_distance	Google_036.png	0.36658725141
+55742291
+max_distance	spider_20141120230337287.png	0.999999940395
+mean_distance	spider_20141112201721532.png	0.361994197332
+5258329
+max_distance	Google_184.png	0.999999940395
+mean_distance	Google_142.png	0.297756826968
+94081
+max_distance	Google_018.png	0.999999940395
+mean_distance	Baidu_008.png	0.389731325548
+9688852
+max_distance	Google_015.png	0.999999940395
+mean_distance	Google_042.png	0.33824927606
+5705401
+max_distance	Google_252.png	0.999999940395
+mean_distance	Google_076.png	0.38928089279
+59106
+max_distance	spider_20160319230856562.png	0.999999940395
+mean_distance	spider_20151114143734584.png	0.394004575738
+243087
+max_distance	Google_188.png	0.999999940395
+mean_distance	Google_285.png	0.297884209042
+46160
+max_distance	Baidu_033.png	0.999999940395
+mean_distance	Baidu_082.png	0.460607627034
+45314
+max_distance	Google_120.png	0.999999940395
+mean_distance	Google_112.png	0.369781532857
+243163
+max_distance	spider_20160430145639218.png	0.999999940395
+mean_distance	spider_20160223001818283.png	0.297455187558
+42091
+max_distance	spider_20151022184356714.png	0.999999940395
+mean_distance	spider_20151202023628698.png	0.300947824081
+70883
+max_distance	spider_20160605165641183.png	0.999999940395
+mean_distance	spider_20161205021640182.png	0.422938088576
+59563
+max_distance	Google_197.png	0.999999940395
+mean_distance	Google_112.png	0.340610565327
+237116
+max_distance	Google_091.png	0.999999940395
+mean_distance	Google_048.png	0.398314259294
+462806
+max_distance	Google_185.png	0.999999940395
+mean_distance	Google_004.png	0.327354324332
+282439
+max_distance	Google_091.png	0.999999940395
+mean_distance	Google_052.png	0.294268853857
+59668
+max_distance	Google_139.png	0.999999940395
+mean_distance	Google_013.png	0.34502609981
+83235
+max_distance	Google_178.png	0.999999940395
+mean_distance	Google_253.png	0.386209871067
+29787
+max_distance	Google_185.png	0.999999940395
+mean_distance	Google_172.png	0.314818549838
+220765
+max_distance	Google_188.png	0.999999940395
+mean_distance	Google_101.png	0.388862255599
+49061
+max_distance	Baidu_012.png	0.999999940395
+mean_distance	Baidu_006.png	0.466111378058
+25768
+max_distance	spider_20151107133403847.png	0.999999940395
+mean_distance	spider_20150913053609474.png	0.368194978991
+207683
+max_distance	Google_342.png	0.999999940395
+mean_distance	Google_195.png	0.241494138046
+56110
+max_distance	Google_019.png	0.999999940395
+mean_distance	Google_093.png	0.433427834198
+209576
+max_distance	Baidu_068.png	0.999999940395
+mean_distance	Baidu_086.png	0.374449774623
+71248
+max_distance	spider_20160422041648096.png	0.999999940395
+mean_distance	Baidu_008.png	0.503948889673
+49166
+max_distance	Google_019.png	0.999999940395
+mean_distance	Google_052.png	0.339149302768
+34242
+max_distance	Google_001.png	0.999999940395
+mean_distance	Google_043.png	0.507759978666
+4959679
+max_distance	Google_351.png	0.999999940395
+mean_distance	Google_251.png	0.343510809024
+49305
+max_distance	Google_018.png	0.999999940395
+mean_distance	Baidu_041.png	0.350460330617
+70992
+max_distance	Baidu_016.png	0.999999940395
+mean_distance	spider_20160313012613988.png	0.521643107491
+49008
+max_distance	Baidu_013.png	0.999999940395
+mean_distance	Baidu_021.png	0.411309010582
+49004
+max_distance	spider_20170616065715833.png	0.999999940395
+mean_distance	spider_20160323185634828.png	0.315059145343
+270216
+max_distance	spider_20170621073746612.png	0.999999940395
+mean_distance	spider_20170417085735991.png	0.366869674663
+55785057
+max_distance	Google_019.png	0.999999940395
+mean_distance	Google_032.png	0.37194472112
+306360
+max_distance	Google_019.png	0.999999940395
+mean_distance	Google_092.png	0.298522457388
+49014
+max_distance	spider_20170601053801204.png	0.999999940395
+mean_distance	spider_20140620133848992.png	0.445995227567
+241360
+max_distance	Google_001.png	0.999999940395
+mean_distance	Google_001.png	0.468421958387
+70787
+max_distance	spider_20170904185658277.png	0.999999940395
+mean_distance	Google_174.png	0.305016686947
+75070
+max_distance	spider_20161112105638228.png	0.999999940395
+mean_distance	spider_20170914112209297.png	0.354784073897
+95980
+max_distance	Google_175.png	0.999999940395
+mean_distance	Google_076.png	0.359761954745
+62034
+max_distance	Google_234.png	0.999999940395
+mean_distance	Google_263.png	0.384730226121
+70689
+max_distance	Google_033.png	0.999999940395
+mean_distance	Google_002.png	0.402769341065
+43318
+max_distance	Google_025.png	0.999999940395
+mean_distance	Google_009.png	0.291567201416
+69855
+max_distance	Google_015.png	0.999999940395
+mean_distance	Google_092.png	0.381152091078
+27888
+max_distance	Google_175.png	0.999999940395
+mean_distance	Baidu_066.png	0.361862477185
+87340
+max_distance	Google_037.png	0.999999940395
+mean_distance	Google_074.png	0.462399371292
+92699
+max_distance	Baidu_099.png	0.999999940395
+mean_distance	spider_20160325031527576.png	0.361930286282
+43503
+max_distance	Baidu_058.png	0.999999940395
+mean_distance	spider_20141121231943588.png	0.362874797431
+209807
+max_distance	Google_031.png	0.999999940395
+mean_distance	Google_355.png	0.282520942545
+9875556
+max_distance	Google_012.png	0.999999940395
+mean_distance	Google_028.png	0.515509194311
+29351
+max_distance	Baidu_012.png	0.999999940395
+mean_distance	spider_20141113203734798.png	0.369387230956
+67056
+max_distance	spider_20141116213156059.png	0.999999940395
+mean_distance	spider_20141116212642965.png	0.287472131079
+43444
+max_distance	Google_362.png	0.999999940395
+mean_distance	Google_344.png	0.298213937909
+48878
+max_distance	Baidu_000.png	0.999999940395
+mean_distance	spider_20141201013714125.png	0.345170303627
+102041
+max_distance	Google_019.png	0.999999940395
+mean_distance	Google_001.png	0.432899937352
+295992
+max_distance	Google_035.png	0.999999940395
+mean_distance	Google_063.png	0.463583408741
+69102
+max_distance	Baidu_010.png	0.999999940395
+mean_distance	Baidu_021.png	0.353331852322
+286226
+max_distance	Google_100.png	0.999999940395
+mean_distance	Google_089.png	0.430767935456
+98079
+max_distance	Google_018.png	0.999999940395
+mean_distance	Google_001.png	0.364162455002
+83747
+max_distance	Google_056.png	0.999999940395
+mean_distance	Google_012.png	0.34567495006
+55736176
+max_distance	Baidu_002.png	0.999999940395
+mean_distance	Google_010.png	0.402074135276
+97067
+max_distance	Google_032.png	0.999999940395
+mean_distance	spider_20150909012627293.png	0.295323205301
+55268
+max_distance	Google_035.png	0.999999940395
+mean_distance	Google_026.png	0.336298984814
+13832779
+max_distance	Google_015.png	0.999999940395
+mean_distance	Google_028.png	0.308063461241
+84519
+max_distance	spider_20160531033621659.png	0.999999940395
+mean_distance	spider_20161001093637454.png	0.368849614857
+164124
+max_distance	spider_20160423005631997.png	0.999999940395
+mean_distance	spider_20160315101952765.png	0.314518304674
+95542
+max_distance	Google_000.png	0.999999940395
+mean_distance	spider_20151110033648739.png	0.30826171027
+70928
+max_distance	Google_025.png	0.999999940395
+mean_distance	Google_040.png	0.343810391792
+87124
+max_distance	spider_20160109065624583.png	0.999999940395
+mean_distance	Baidu_038.png	0.373053702356
+80191
+max_distance	spider_20160315101709325.png	0.999999940395
+mean_distance	spider_20160113145619170.png	0.382463886366
+70777
+max_distance	Baidu_008.png	0.999999940395
+mean_distance	Baidu_009.png	0.357509302831
+83733
+max_distance	Baidu_036.png	0.999999940395
+mean_distance	Baidu_001.png	0.382298375247
+61537
+max_distance	Google_018.png	0.999999940395
+mean_distance	Google_209.png	0.325087262938
+211568
+max_distance	Google_011.png	0.999999940395
+mean_distance	Google_037.png	0.307010727659
+280109
+max_distance	Google_019.png	0.999999940395
+mean_distance	Google_030.png	0.441677870903
+236400
+max_distance	Google_215.png	0.999999940395
+mean_distance	Google_234.png	0.348228229628
+42406
+max_distance	Baidu_021.png	0.999999940395
+mean_distance	Baidu_035.png	0.414659762681
+68264
+max_distance	Google_032.png	0.999999940395
+mean_distance	Google_041.png	0.311036703086
+60444
+max_distance	Baidu_024.png	0.999999940395
+mean_distance	Baidu_009.png	0.313748242851
+3556583
+max_distance	Google_110.png	0.999999940395
+mean_distance	Google_265.png	0.348507603336
+97885
+max_distance	Google_285.png	0.999999940395
+mean_distance	Google_279.png	0.378100767586
+35481
+max_distance	Baidu_012.png	0.999999940395
+mean_distance	Baidu_057.png	0.372006478673
+26139
+max_distance	spider_20141117214421015.png	0.999999940395
+mean_distance	Google_167.png	0.352911171624
+4609944
+max_distance	Google_151.png	0.999999940395
+mean_distance	Google_123.png	0.424249170837
+78796
+max_distance	Baidu_010.png	0.999999940395
+mean_distance	Baidu_037.png	0.32441817219
+300479
+max_distance	spider_20160311061719103.png	0.999999940395
+mean_distance	spider_20141028173706585.png	0.298845820835
+418254
+max_distance	Google_217.png	0.999999940395
+mean_distance	Google_134.png	0.36425325678
+125263
+max_distance	Baidu_032.png	0.999999940395
+mean_distance	Baidu_006.png	0.524953270952
+55737866
+max_distance	Google_018.png	0.999999940395
+mean_distance	Google_149.png	0.352523304135
+29568
+max_distance	Google_019.png	0.999999940395
+mean_distance	Baidu_014.png	0.308723487189
+29661
+max_distance	Baidu_048.png	0.999999940395
+mean_distance	Baidu_031.png	0.498602755864
+67102
+max_distance	spider_20170219073701342.png	0.999999940395
+mean_distance	spider_20170219073651093.png	0.339677359909
+59349
+max_distance	Google_045.png	0.999999940395
+mean_distance	Google_001.png	0.369650250123
+178069
+max_distance	spider_20161018041634265.png	0.999999940395
+mean_distance	Baidu_086.png	0.401968007802
+25613
+max_distance	Baidu_055.png	0.999999940395
+mean_distance	spider_20141112202626396.png	0.260867793153
+6040058
+max_distance	Google_110.png	0.999999940395
+mean_distance	Google_003.png	0.392893063681
+59775
+max_distance	spider_20160710173633463.png	0.999999940395
+mean_distance	spider_20151030160916481.png	0.357897858431
+35329
+max_distance	spider_20151115101642988.png	0.999999940395
+mean_distance	spider_20151115101653384.png	0.398392001788
+64768
+max_distance	Google_342.png	0.999999940395
+mean_distance	Google_147.png	0.40218595014
+4314275
+max_distance	Google_242.png	0.999999880791
+mean_distance	Google_374.png	0.649093399445
+49307
+max_distance	Baidu_021.png	0.999999940395
+mean_distance	Google_006.png	0.421541474279
+49107
+max_distance	Baidu_010.png	0.999999940395
+mean_distance	Baidu_039.png	0.460549048839
+66923
+max_distance	Baidu_024.png	0.999999940395
+mean_distance	spider_20160725205702521.png	0.296581392394
+94575
+max_distance	Baidu_006.png	0.999999940395
+mean_distance	Baidu_017.png	0.490735695387
+605083
+max_distance	Google_011.png	0.999999940395
+mean_distance	Google_048.png	0.311786160487
+60475
+max_distance	Google_035.png	0.999999940395
+mean_distance	Google_081.png	0.411441459275
+3562321
+max_distance	spider_20161006133643031.png	0.999999940395
+mean_distance	spider_20160326131603940.png	0.365130247315
+9464127
+max_distance	Google_025.png	0.999999940395
+mean_distance	Google_221.png	0.312882370769
+237153
+max_distance	Baidu_040.png	0.999999940395
+mean_distance	Baidu_019.png	0.362765855071
+94655
+max_distance	Baidu_021.png	0.999999940395
+mean_distance	spider_20151112122128354.png	0.32787035544
+206659
+max_distance	Google_027.png	0.999999940395
+mean_distance	Google_008.png	0.338330257096
+35073
+max_distance	Baidu_002.png	0.999999940395
+mean_distance	Baidu_034.png	0.401684049889
+55648
+max_distance	Google_027.png	0.999999940395
+mean_distance	Google_143.png	0.310463916065
+62659
+max_distance	Google_294.png	0.999999940395
+mean_distance	Google_124.png	0.340876706949
+100962
+max_distance	Google_053.png	0.999999940395
+mean_distance	Google_102.png	0.347574550787
+60022
+max_distance	Google_150.png	0.999999940395
+mean_distance	Google_038.png	0.336922975662
+55738260
+max_distance	Google_000.png	0.999999940395
+mean_distance	Google_354.png	0.32809640397
+48928
+max_distance	spider_20160730122731059.png	0.999999940395
+mean_distance	spider_20160730102659755.png	0.391529797404
+5412172
+max_distance	Google_338.png	0.999999940395
+mean_distance	Google_010.png	0.293042745441
+48980
+max_distance	Baidu_033.png	0.999999940395
+mean_distance	Google_020.png	0.317097161528
+94393
+max_distance	spider_20150909054354927.png	0.999999940395
+mean_distance	spider_20141119221953365.png	0.344419871254
+49542
+max_distance	Google_399.png	0.999999940395
+mean_distance	Google_084.png	0.367143648823
+295736
+max_distance	Google_082.png	0.999999940395
+mean_distance	Google_010.png	0.311138789462
+61481
+max_distance	Baidu_050.png	0.999999940395
+mean_distance	Baidu_028.png	0.381152462052
+55756208
+max_distance	Google_001.png	0.999999940395
+mean_distance	Google_098.png	0.359072752689
+4205427
+max_distance	Google_289.png	0.999999940395
+mean_distance	Google_060.png	0.392127924222
+90360
+max_distance	Google_362.png	0.999999940395
+mean_distance	Google_020.png	0.371678094808
+36548
+max_distance	spider_20151114144255548.png	0.999999940395
+mean_distance	spider_20151022174458375.png	0.407630019463
+90842
+max_distance	spider_20170318061649199.png	0.999999940395
+mean_distance	spider_20141012170225776.png	0.314369605236
+101373
+max_distance	Google_053.png	0.999999940395
+mean_distance	Google_230.png	0.362052816567
+55737774
+max_distance	Google_117.png	0.999999940395
+mean_distance	Google_000.png	0.329745064546
+3622148
+max_distance	Google_019.png	0.999999940395
+mean_distance	Google_145.png	0.304209055441
+55738259
+max_distance	spider_20150916053804308.png	0.999999940395
+mean_distance	Baidu_011.png	0.354216021327
+85182
+max_distance	spider_20160327141704928.png	0.999999940395
+mean_distance	Baidu_028.png	0.326899054707
+55777311
+max_distance	Google_012.png	0.999999940395
+mean_distance	Google_221.png	0.38881880591
+96804
+max_distance	Google_004.png	0.999999940395
+mean_distance	Google_020.png	0.489279137552
+43435
+max_distance	Google_046.png	0.999999940395
+mean_distance	Google_023.png	0.283323877061
+9763801
+max_distance	Google_015.png	0.999999940395
+mean_distance	Google_033.png	0.383701602195
+26602
+max_distance	Google_092.png	0.999999940395
+mean_distance	Google_010.png	0.358622357526
+863130
+max_distance	Google_004.png	0.999999940395
+mean_distance	Google_017.png	0.337961021957
+208230
+max_distance	spider_20141127003216890.png	0.999999940395
+mean_distance	spider_20151121154847599.png	0.298903202577
+25772
+max_distance	Baidu_046.png	0.999999940395
+mean_distance	Baidu_027.png	0.515650441959
+23053
+max_distance	spider_20160114172043285.png	0.999999940395
+mean_distance	Bing_040.png	0.415073092039
+3322969
+max_distance	spider_20160114181618544.png	0.999999940395
+mean_distance	spider_20160315181626382.png	0.318264177246
+62799
+max_distance	Baidu_048.png	0.999999940395
+mean_distance	Baidu_027.png	0.503140246123
+75455
+max_distance	spider_20140620132930941.png	0.999999940395
+mean_distance	Baidu_079.png	0.365160953442
+28740
+max_distance	spider_20160618053636832.png	0.999999940395
+mean_distance	Google_094.png	0.396633574458
+35236
+max_distance	Google_001.png	0.999999940395
+mean_distance	Google_063.png	0.394789385035
+95185
+max_distance	Google_362.png	0.999999940395
+mean_distance	Google_040.png	0.344519797035
+178301
+max_distance	spider_20160921173641932.png	0.999999940395
+mean_distance	spider_20160921173639657.png	0.416664017172
+60575
+max_distance	spider_20141027172936078.png	0.999999940395
+mean_distance	spider_20160629153642187.png	0.337312768995
+4795604
+max_distance	Google_092.png	0.999999940395
+mean_distance	Google_133.png	0.372550574555
+29612
+max_distance	Google_018.png	0.999999940395
+mean_distance	Google_019.png	0.323968621876
+261373
+max_distance	Google_126.png	0.999999940395
+mean_distance	Google_154.png	0.43322267988
+34239
+max_distance	Google_316.png	0.999999940395
+mean_distance	Google_047.png	0.369247045728
+96048
+max_distance	spider_20150827204613642.png	0.999999940395
+mean_distance	spider_20150827204650293.png	0.441822096085
+250919
+max_distance	Google_122.png	0.999999940395
+mean_distance	Google_149.png	0.36386545375
+68187
+max_distance	Google_077.png	0.999999940395
+mean_distance	Google_140.png	0.337382571602
+94347
+max_distance	Baidu_010.png	0.999999940395
+mean_distance	spider_20160111053831234.png	0.286718115734
+29748
+max_distance	spider_20141119222101024.png	0.999999940395
+mean_distance	spider_20141107191447397.png	0.363013872209
+99842
+max_distance	Google_343.png	0.999999940395
+mean_distance	Google_127.png	0.373021078175
+59590
+max_distance	spider_20160921021639584.png	0.999999940395
+mean_distance	Baidu_049.png	0.321530058493
+9611669
+max_distance	Google_025.png	0.999999940395
+mean_distance	Google_188.png	0.388028964636
+864335
+max_distance	Google_027.png	0.999999940395
+mean_distance	Google_087.png	0.28840812516
+96245
+max_distance	Google_027.png	0.999999940395
+mean_distance	Google_307.png	0.344517220763
+63567
+max_distance	Baidu_035.png	0.999999940395
+mean_distance	Baidu_010.png	0.344915110618
+58826
+max_distance	spider_20160115201629264.png	0.999999940395
+mean_distance	Baidu_040.png	0.355769249927
+90247
+max_distance	Google_051.png	0.999999940395
+mean_distance	Google_044.png	0.364989510531
+41440584
+max_distance	Google_252.png	0.999999940395
+mean_distance	Google_041.png	0.363264891569
+100894
+max_distance	Google_018.png	0.999999940395
+mean_distance	Baidu_010.png	0.390456586298
+94313
+max_distance	spider_20151114093614539.png	0.999999940395
+mean_distance	spider_20141111200638310.png	0.459985847492
+75437
+max_distance	spider_20150909230746114.png	0.999999940395
+mean_distance	spider_20150909230629599.png	0.374255358365
+4348812
+max_distance	Google_018.png	0.999999940395
+mean_distance	Google_265.png	0.289202326608
+49543
+max_distance	Google_051.png	0.999999940395
+mean_distance	Google_052.png	0.414897207849
+50032
+max_distance	Baidu_022.png	0.999999940395
+mean_distance	Baidu_005.png	0.424263427494
+26067
+max_distance	Google_001.png	0.999999940395
+mean_distance	Google_009.png	0.410872873474
+290311
+max_distance	spider_20141106190654481.png	0.999999940395
+mean_distance	spider_20151128204721472.png	0.254892564445
+29555
+max_distance	spider_20141114205026520.png	0.999999940395
+mean_distance	spider_20151003073629601.png	0.347714077778

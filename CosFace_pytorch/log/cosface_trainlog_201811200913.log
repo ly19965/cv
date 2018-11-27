@@ -1,0 +1,106 @@
+Namespace(batch_size=512, classifier_type='MCP', cuda=True, database='WebFace', epochs=30, is_gray=False, log_interval=100, lr=0.1, momentum=0.9, network='sphere20', no_cuda=False, num_class=10572, root_path='', save_path='checkpoint/', step_size=[16000, 24000], train_list='/data1/aipd_tuijian/charlesliu/dataset/CASIA-WebFace/CASIA-WebFace-112X96.txt', weight_decay=0.0005, workers=4)
+DataParallel(
+  (module): sphere(
+    (layer1): Sequential(
+      (0): Conv2d(3, 64, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1))
+      (1): PReLU(num_parameters=64)
+      (2): Block(
+        (conv1): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (prelu1): PReLU(num_parameters=64)
+        (conv2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (prelu2): PReLU(num_parameters=64)
+      )
+    )
+    (layer2): Sequential(
+      (0): Conv2d(64, 128, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1))
+      (1): PReLU(num_parameters=128)
+      (2): Block(
+        (conv1): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (prelu1): PReLU(num_parameters=128)
+        (conv2): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (prelu2): PReLU(num_parameters=128)
+      )
+      (3): Block(
+        (conv1): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (prelu1): PReLU(num_parameters=128)
+        (conv2): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (prelu2): PReLU(num_parameters=128)
+      )
+    )
+    (layer3): Sequential(
+      (0): Conv2d(128, 256, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1))
+      (1): PReLU(num_parameters=256)
+      (2): Block(
+        (conv1): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (prelu1): PReLU(num_parameters=256)
+        (conv2): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (prelu2): PReLU(num_parameters=256)
+      )
+      (3): Block(
+        (conv1): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (prelu1): PReLU(num_parameters=256)
+        (conv2): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (prelu2): PReLU(num_parameters=256)
+      )
+      (4): Block(
+        (conv1): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (prelu1): PReLU(num_parameters=256)
+        (conv2): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (prelu2): PReLU(num_parameters=256)
+      )
+      (5): Block(
+        (conv1): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (prelu1): PReLU(num_parameters=256)
+        (conv2): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (prelu2): PReLU(num_parameters=256)
+      )
+    )
+    (layer4): Sequential(
+      (0): Conv2d(256, 512, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1))
+      (1): PReLU(num_parameters=512)
+      (2): Block(
+        (conv1): Conv2d(512, 512, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (prelu1): PReLU(num_parameters=512)
+        (conv2): Conv2d(512, 512, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (prelu2): PReLU(num_parameters=512)
+      )
+    )
+    (fc): Linear(in_features=21504, out_features=512, bias=True)
+  )
+)
+length of train Database: 452960
+Number of Identities: 10572
+2018-11-20 09:13:06 Epoch 1 start training
+Cannot load image /data1/aipd_tuijian/charlesliu/CosFace_pytorch/CASIA-clean/0209815/012.jpg
+Cannot load image /data1/aipd_tuijian/charlesliu/CosFace_pytorch/CASIA-clean/2955013/015.jpg
+Cannot load image /data1/aipd_tuijian/charlesliu/CosFace_pytorch/CASIA-clean/0357979/006.jpg
+Cannot load image /data1/aipd_tuijian/charlesliu/CosFace_pytorch/CASIA-clean/0000563/105.jpg
+Cannot load image /data1/aipd_tuijian/charlesliu/CosFace_pytorch/CASIA-clean/2794962/018.jpg
+Cannot load image /data1/aipd_tuijian/charlesliu/CosFace_pytorch/CASIA-clean/5274598/024.jpg
+Traceback (most recent call last):
+  File "main.py", line 206, in <module>
+Cannot load image /data1/aipd_tuijian/charlesliu/CosFace_pytorch/CASIA-clean/2439805/044.jpg
+    Cannot load image /data1/aipd_tuijian/charlesliu/CosFace_pytorch/CASIA-clean/4690180/007.jpg
+main()
+  File "main.py", line 142, in main
+    train(train_loader, model, classifier, criterion, optimizer, epoch)
+  File "main.py", line 154, in train
+    for batch_idx, (data, target) in enumerate(train_loader, 1):
+  File "/data1/aipd_tuijian/charlesliu/torch_0.4/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 336, in __next__
+    return self._process_next_batch(batch)
+  File "/data1/aipd_tuijian/charlesliu/torch_0.4/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 357, in _process_next_batch
+    Cannot load image /data1/aipd_tuijian/charlesliu/CosFace_pytorch/CASIA-clean/1365912/129.jpg
+raise batch.exc_type(batch.exc_msg)
+TypeError: Traceback (most recent call last):
+  File "/data1/aipd_tuijian/charlesliu/torch_0.4/lib/python2.7/site-packages/torch/utils/data/dataloader.py", line 106, in _worker_loop
+    samples = collate_fn([dataset[i] for i in batch_indices])
+  File "/data1/aipd_tuijian/charlesliu/CosFace_pytorch/dataset.py", line 39, in __getitem__
+    img = self.transform(img)
+  File "/data1/aipd_tuijian/charlesliu/torch_0.4/lib/python2.7/site-packages/torchvision/transforms/transforms.py", line 49, in __call__
+    img = t(img)
+  File "/data1/aipd_tuijian/charlesliu/torch_0.4/lib/python2.7/site-packages/torchvision/transforms/transforms.py", line 448, in __call__
+    return F.hflip(img)
+  File "/data1/aipd_tuijian/charlesliu/torch_0.4/lib/python2.7/site-packages/torchvision/transforms/functional.py", line 345, in hflip
+    raise TypeError('img should be PIL Image. Got {}'.format(type(img)))
+TypeError: img should be PIL Image. Got <type 'NoneType'>
+

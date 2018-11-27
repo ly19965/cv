@@ -1,0 +1,73 @@
+Namespace(batch_size=512, classifier_type='MCP', cuda=True, database='WebFace', epochs=500, is_gray=False, log_interval=100, lr=0.1, momentum=0.9, network='sphere20', no_cuda=False, num_class=10875, root_path='', save_path='checkpoint/', step_size=[16000, 24000], train_list='/data1/aipd_tuijian/charlesliu/dataset/CASIA-WebFace-112X96.txt', weight_decay=0.0005, workers=4)
+DataParallel(
+  (module): sphere(
+    (layer1): Sequential(
+      (0): Conv2d(3, 64, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1))
+      (1): PReLU(num_parameters=64)
+      (2): Block(
+        (conv1): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (prelu1): PReLU(num_parameters=64)
+        (conv2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (prelu2): PReLU(num_parameters=64)
+      )
+    )
+    (layer2): Sequential(
+      (0): Conv2d(64, 128, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1))
+      (1): PReLU(num_parameters=128)
+      (2): Block(
+        (conv1): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (prelu1): PReLU(num_parameters=128)
+        (conv2): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (prelu2): PReLU(num_parameters=128)
+      )
+      (3): Block(
+        (conv1): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (prelu1): PReLU(num_parameters=128)
+        (conv2): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (prelu2): PReLU(num_parameters=128)
+      )
+    )
+    (layer3): Sequential(
+      (0): Conv2d(128, 256, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1))
+      (1): PReLU(num_parameters=256)
+      (2): Block(
+        (conv1): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (prelu1): PReLU(num_parameters=256)
+        (conv2): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (prelu2): PReLU(num_parameters=256)
+      )
+      (3): Block(
+        (conv1): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (prelu1): PReLU(num_parameters=256)
+        (conv2): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (prelu2): PReLU(num_parameters=256)
+      )
+      (4): Block(
+        (conv1): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (prelu1): PReLU(num_parameters=256)
+        (conv2): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (prelu2): PReLU(num_parameters=256)
+      )
+      (5): Block(
+        (conv1): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (prelu1): PReLU(num_parameters=256)
+        (conv2): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (prelu2): PReLU(num_parameters=256)
+      )
+    )
+    (layer4): Sequential(
+      (0): Conv2d(256, 512, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1))
+      (1): PReLU(num_parameters=512)
+      (2): Block(
+        (conv1): Conv2d(512, 512, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (prelu1): PReLU(num_parameters=512)
+        (conv2): Conv2d(512, 512, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (prelu2): PReLU(num_parameters=512)
+      )
+    )
+    (fc): Linear(in_features=21504, out_features=512, bias=True)
+  )
+)
+length of train Database: 477055
+Number of Identities: 10875
+2018-11-23 09:55:47 Epoch 1 start training
